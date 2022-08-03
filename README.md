@@ -1,1 +1,1 @@
-# House_Retail_Automation
+This is a program that will automatically search Zillow for houses and apartments within certain zip codes within a specific price range. It will then list all of the details to a google sheet so the address, zip code, price, and other details are listed clearly and easy to read. 
